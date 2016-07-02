@@ -1,24 +1,34 @@
 span {
   font-weight: bold;
 }
+
 ul {
   list-style: none;
 }
-#interesting-fact {
+
+.interesting-fact {
   font-style: italic;
 }
+
 .light-border {
   border-style: solid;
   border-color: grey;
   border-width: 1px;
 }
+
+.card-width {
+  width: 320px;
+}
+
 .margin {
   margin: 10px;
 }
+
 li {
   position: relative;
   left: -30px;
 }
+
 .shadow {
   box-shadow: 10px 10px 5px 0px rgba(181,174,181,1);
 }
